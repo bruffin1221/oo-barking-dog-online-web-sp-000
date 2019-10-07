@@ -9,8 +9,10 @@ def name
 end
 
 def bark
-  @puts "woof!"
+  puts "woof!"
 end
+
+
 end
 
 fido=Dog.new
