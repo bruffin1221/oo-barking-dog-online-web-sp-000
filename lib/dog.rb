@@ -12,4 +12,4 @@ end
 fido=Dog.name
 fido.name="Fido"
 
-Fido.name
+puts Fido.name
