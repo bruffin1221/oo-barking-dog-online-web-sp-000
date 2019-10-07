@@ -9,7 +9,7 @@ def name
 end
 end
 
-fido=Dog.name
+fido=Dog.new
 fido.name="Fido"
 
 puts Fido.name
