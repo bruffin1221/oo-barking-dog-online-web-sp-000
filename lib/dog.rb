@@ -10,6 +10,6 @@ end
 end
 
 fido=Dog.name
-lassie.name="Lassie"
+fido.name="Fido"
 
-lassie.name
+Fido.name
